@@ -12,10 +12,13 @@
                         <div class="single-footer-caption mb-30">
                             <div class="footer-tittle">
                                 <div class="footer-pera">
-                                    <p>Seddo eiusmod tempor incididunt
-                                        ut labore et dolore magna
-                                        aliqua. consectetur pisicin
-                                        elit, sed do eiusmod tempor.</p>
+                                    <p>At Advocate Nazmul & Associates, we are dedicated to providing exceptional legal
+                                        services
+                                        tailored to the unique needs of our clients. With a team of experienced and
+                                        passionate
+                                        Advocates, we are committed to delivering outstanding results and ensuring that
+                                        justice
+                                        prevails.</p>
                                 </div>
                             </div>
                         </div>
@@ -103,15 +106,15 @@
                     <div class="col-xl-12">
                         <div class="footer-copy-right text-center">
                             <p>
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
                                 Copyright
                                 &copy;<script>
                                 document.write(new Date().getFullYear());
                                 </script>
-                                All rights reserved | This template is
-                                made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com"
-                                    target="_blank">Colorlib</a>
-                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                Fonclick
+                                <i class="ti-heart" aria-hidden="true"></i> by <a href="https://fonclick.com/furkan"
+                                    target="_blank">Fonclick</a>
+
                             </p>
                         </div>
                     </div>
