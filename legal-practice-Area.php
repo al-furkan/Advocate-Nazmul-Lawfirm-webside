@@ -18,7 +18,7 @@
 
                          <!-- "practice-icon-->
                          <div class="practice-icon">
-                             <i class="flaticon-care"></i>
+                             <i class="fas fa-balance-scale"></i>
                          </div>
                      </div>
                      <div class="practice-caption">
@@ -34,7 +34,7 @@
 
                          <!-- " practice-icon-->
                          <div class="practice-icon">
-                             <i class="flaticon-care"></i>
+                             <i class="fas fa-balance-scale"></i>
                          </div>
                      </div>
                      <div class="practice-caption">
@@ -51,7 +51,7 @@
 
                          <!-- " practice-icon-->
                          <div class="practice-icon">
-                             <i class="flaticon-care"></i>
+                             <i class="fas fa-balance-scale"></i>
                          </div>
                      </div>
                      <div class="practice-caption">
@@ -115,7 +115,7 @@
 
                          <!-- " practice-icon-->
                          <div class="practice-icon">
-                             <i class="flaticon-care"></i>
+                             <i class="fas fa-balance-scale"></i>
                          </div>
                      </div>
                      <div class="practice-caption">
@@ -131,7 +131,7 @@
 
                          <!-- "practice-icon-->
                          <div class="practice-icon">
-                             <i class="flaticon-care"></i>
+                             <i class="fas fa-balance-scale"></i>
                          </div>
                      </div>
                      <div class="practice-caption">
@@ -147,7 +147,7 @@
 
                          <!-- "practice-icon-->
                          <div class="practice-icon">
-                             <i class="flaticon-care"></i>
+                             <i class="fas fa-balance-scale"></i>
                          </div>
                      </div>
                      <div class="practice-caption">
