@@ -60,7 +60,7 @@
                                     <li><a href="./about.php">About</a></li>
                                     <li><a href="./practice-area.php">Practice-Area</a></li>
                                     <li><a href="contact.php">Contact</a></li>
-                                    <li><a href="blog.html">Blog</a>
+                                    <li><a href="blog.php">Blog</a>
                                         <ul class="submenu">
                                             <li><a href="blog.php">Blog</a></li>
                                             <li><a href="single-blog.php">Blog
@@ -81,7 +81,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-3">
                         <!-- Header-btn -->
                         <div class="header-btn d-none d-lg-block f-right">
-                            <a href="#" class="btn header-btn">Request
+                            <a href="./index.php?#contact" class="btn header-btn">Request
                                 Appointment</a>
                         </div>
                     </div>

@@ -83,7 +83,7 @@ include('./about-justis.php');
     <!-- About Law End-->
 
     <!-- Contact form Start -->
-    <div class="contact-form bg-height pb-160" data-background="assets/img/about/contact_bg.jpg">
+    <div class="contact-form bg-height pb-160" data-background="assets/img/about/contact_bg.jpg" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-xl-8 col-lg-8 offset-lg-2 offset-xl-2">
