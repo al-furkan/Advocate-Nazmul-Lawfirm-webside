@@ -84,15 +84,17 @@ include('./header.php');
             <div class="media contact-info">
                 <span class="contact-info__icon"><i class="ti-home"></i></span>
                 <div class="media-body">
-                    <h3>Dhaka Chamber: Room No- 03, 6th floor, Metropolitan Bar Association Building,</h3>
-                    <p>23, 23/1, Court House Street, Kotwali, Dhaka-1000.</p>
+                    <h3>Dhaka Judge Court Chamber: Room No- 03, 6th Floor, Metropolitan Bar Association
+                    </h3>
+                    <p> Building, 23, 23/1, Court House Street, Kotwali, Dhaka-1000</p>
                 </div>
             </div>
             <div class="media contact-info">
                 <span class="contact-info__icon"><i class="ti-home"></i></span>
                 <div class="media-body">
-                    <h3>Narayanganj Chamber: Room No- 03, 3rd Floor (Second Stair), Neat House</h3>
-                    <p>Building, Adarsha Chanmari, Fatullah, Narayanganj.</p>
+                    <h3>Narayanganj Judge Court Chamber: Room No- 03, Knit House Building (2nd Floor, 2nd Stair),</h3>
+                    <p>Chanmari, Adarsha Chashara, Fatullah, Narayanganj - 1420
+                    </p>
                 </div>
             </div>
             <div class="media contact-info">

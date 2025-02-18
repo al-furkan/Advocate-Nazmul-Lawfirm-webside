@@ -29,11 +29,11 @@
 
     <!-- Preloader Start -->
     <div id="preloader-active">
-        <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="preloader d-flex align-items-center justify-content-center bg-dark">
             <div class="preloader-inner position-relative">
-                <div class="preloader-circle"></div>
-                <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/loder.png" alt>
+                <div class="preloader-circle bg-dark"></div>
+                <div class="preloader-img pere-text bg-dark">
+                    <img src="assets/img/logo/loderr.png" alt="LoderImg" class="img-fluid">
                 </div>
             </div>
         </div>

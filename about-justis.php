@@ -5,7 +5,7 @@
             <div class="col-xl-5 col-lg-5">
                 <!-- section tittle -->
                 <div class="section-tittle section-tittle-l mb-70">
-                    <h2>About Just Law</h2>
+                    <h2>About Us</h2>
                 </div>
                 <div class="about-caption mb-100">
                     <p>At Advocate Nazmul & Associates, we are dedicated to providing exceptional legal services

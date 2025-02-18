@@ -26,7 +26,8 @@ include('./header.php');
                 <div class="slider-bottom">
                     <div class="slider-bottom-cap" data-animation="fadeInLeft" data-delay=".6s">
                         <p>Schedule a Free Consultation </p>
-                        <span>+880 1817-516998</span>
+                        <a href="https://api.whatsapp.com/send?phone=8801817516998" target="blank"><span>+880
+                                1817-516998</span></a>
                     </div>
                     <div class="slider-video d-flex align-items-center" data-animation="fadeInRight" data-delay=".8s">
                         <a class="popup-video ani-btn" href="https://www.youtube.com/watch?v=1aP-TXUpNoU">
@@ -53,7 +54,7 @@ include('./header.php');
                 <div class="slider-bottom">
                     <div class="slider-bottom-cap" data-animation="fadeInLeft" data-delay=".4s">
                         <p>Schedule a Free Consultation </p>
-                        <span>+880 1817-516998</span>
+                        <a href="https://api.whatsapp.com/send?phone=8801817516998"><span>+880 1817-516998</span></a>
                     </div>
                     <div class="slider-video d-flex align-items-center" data-animation="fadeInRight" data-delay=".8s">
                         <a class="popup-video" href="https://www.youtube.com/watch?v=1aP-TXUpNoU">
@@ -112,16 +113,14 @@ include('./about-justis.php');
                                 <div class="col-lg-6 col-md-6 mb-30">
                                     <div class="select-itms">
                                         <select name="select" id="select2">
-                                            <option value>Health
-                                                Law</option>
-                                            <option value>Arafath
-                                                Miya</option>
-                                            <option value>Shakil
-                                                Miya</option>
-                                            <option value>saiful
-                                                islam</option>
-                                            <option value>Tamim
-                                                Sharker</option>
+                                            <option value>Criminal Law</option>
+                                            <option value>Civil Law</option>
+                                            <option value>Corporate and Commercial Law</option>
+                                            <option value>Tax Law</option>
+                                            <option value>Intellectual Property Law</option>
+                                            <option value>Immigration and Visa Law</option>
+                                            <option value>Environmental Law</option>
+                                            <option value>Labor and Employment Law</option>
                                         </select>
                                     </div>
                                 </div>
@@ -150,94 +149,11 @@ include('./about-justis.php');
 
 
     <!-- Testimonial Start -->
-    <div class="testimonial-area testimonial-padding" data-background="assets/img/testmonial/testi_bg.png">
-        <div class="container">
-            <!--Section Tittle  -->
-            <div class="row ">
-                <div class="col-xl-12">
-                    <div class="section-tittle section-tittle-testi text-center mb-45">
-                        <h2>Words From Clients</h2>
-                    </div>
-                </div>
-            </div>
-            <!-- Testimonial contents -->
-            <div class="row d-flex justify-content-center">
-                <div class="col-xl-8 col-lg-8 col-md-10">
-                    <div class="h1-testimonial-active dot-style">
-                        <!-- Single Testimonial -->
-                        <div class="single-testimonial text-center">
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-caption ">
-                                <div class="testimonial-top-cap">
-                                    <p>Lorem ipsum dolor sit amet,
-                                        consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt
-                                        ut labore et dolore magna
-                                        aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation
-                                        ullamco laboris nisi ut
-                                        aliquip</p>
-                                </div>
-                                <!-- founder -->
-                                <div class="testimonial-founder  ">
-                                    <div class="founder-img">
-                                        <img src="assets/img/testmonial/Homepage_testi_1.png" alt>
-                                        <span>Devid jonathan</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single Testimonial -->
-                        <div class="single-testimonial text-center">
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-caption ">
-                                <div class="testimonial-top-cap">
-                                    <p>Lorem ipsum dolor sit amet,
-                                        consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt
-                                        ut labore et dolore magna
-                                        aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation
-                                        ullamco laboris nisi ut
-                                        aliquip</p>
-                                </div>
-                                <!-- founder -->
-                                <div class="testimonial-founder  ">
-                                    <div class="founder-img">
-                                        <img src="assets/img/testmonial/Homepage_testi_1.png" alt>
-                                        <span>Devid jonathan</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Single Testimonial -->
-                        <div class="single-testimonial text-center">
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-caption ">
-                                <div class="testimonial-top-cap">
-                                    <p>Lorem ipsum dolor sit amet,
-                                        consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt
-                                        ut labore et dolore magna
-                                        aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation
-                                        ullamco laboris nisi ut
-                                        aliquip</p>
-                                </div>
-                                <!-- founder -->
-                                <div class="testimonial-founder  ">
-                                    <div class="founder-img">
-                                        <img src="assets/img/testmonial/Homepage_testi_1.png" alt>
-                                        <span>Devid jonathan</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php
+
+include('./client.php');
+
+?>
     <!-- Testimonial End -->
     <?php
 

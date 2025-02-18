@@ -39,7 +39,7 @@
                                 <li><a href="index.html">Home</a></li>
                                 <li><a href="about.html"> About
                                         Us</a></li>
-                                <li><a href="#">Browse Pets</a></li>
+                                <li><a href="./practice-area.php">Practice-Area</a></li>
                                 <li><a href="blog.html">Blog</a></li>
                                 <li><a href="contact.html">Contact
                                         Us</a></li>
@@ -52,9 +52,6 @@
                         <div class="footer-tittle">
                             <h4>Services</h4>
                             <ul>
-                                <li><a href="#">O’Connor Group</a></li>
-                                <li><a href="#">Our Business
-                                        Model</a></li>
                                 <li><a href="#">Our Lawyers
                                         Team</a></li>
                                 <li><a href="#"> Most Recent
