@@ -10,7 +10,7 @@ include('./header.php');
         <div class="slider-active">
             <!-- Single Slider -->
             <div class="single-slider slider-height d-flex align-items-center"
-                data-background="assets/img/hero/header.jpeg">
+                data-background="assets/img/hero/header2.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-9 col-lg-9 col-md-9">
@@ -25,9 +25,18 @@ include('./header.php');
                 </div>
                 <div class="slider-bottom">
                     <div class="slider-bottom-cap" data-animation="fadeInLeft" data-delay=".6s">
-                        <p>Schedule a Free Consultation </p>
-                        <a href="https://api.whatsapp.com/send?phone=8801817516998" target="blank"><span>+880
-                                1817-516998</span></a>
+                        <p>Schedule a Free Consultation</p>
+                        <a href="https://api.whatsapp.com/send?phone=8801817516998" target="_blank">
+                            <div class="d-flex-center-start">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+                                    alt="WhatsApp" class="whatsapp-icon" style=" width: 100px;
+        height: 100px;
+        background-color: white;
+        border-radius: 50%;
+        padding: 10px;">
+                                <span>+880 1817-516998</span>
+                            </div>
+                        </a>
                     </div>
                     <div class="slider-video d-flex align-items-center" data-animation="fadeInRight" data-delay=".8s">
                         <a class="popup-video ani-btn" href="https://www.youtube.com/watch?v=1aP-TXUpNoU">
@@ -52,9 +61,13 @@ include('./header.php');
                     </div>
                 </div>
                 <div class="slider-bottom">
-                    <div class="slider-bottom-cap" data-animation="fadeInLeft" data-delay=".4s">
-                        <p>Schedule a Free Consultation </p>
-                        <a href="https://api.whatsapp.com/send?phone=8801817516998"><span>+880 1817-516998</span></a>
+                    <div class="slider-bottom-cap" data-animation="fadeInLeft" data-delay=".6s">
+                        <p>Schedule a Free Consultation</p>
+                        <a href="https://api.whatsapp.com/send?phone=8801817516998" target="_blank">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp"
+                                class="whatsapp-icon">
+                            <span>+880 1817-516998</span>
+                        </a>
                     </div>
                     <div class="slider-video d-flex align-items-center" data-animation="fadeInRight" data-delay=".8s">
                         <a class="popup-video" href="https://www.youtube.com/watch?v=1aP-TXUpNoU">

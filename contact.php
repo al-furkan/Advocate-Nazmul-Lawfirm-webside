@@ -12,7 +12,18 @@ include('./header.php');
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap text-center">
-                        <h2>Contact Us</h2>
+                        <div class="slider-bottom-cap" data-animation="fadeInLeft" data-delay=".6s">
+                            <p style="color:white; font-size: 64px; margin-bottom:30px;">Contact Us</p>
+                            <a href="https://api.whatsapp.com/send?phone=8801817516998" target="_blank">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+                                    alt="WhatsApp" class="whatsapp-icon" style=" width: 100px;
+        height: 100px;
+        background-color: white;
+        border-radius: 50%;
+        padding: 10px;">
+                                <span style="color:white; font-size: 64px;">+880 1817-516998</span>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -29,8 +40,8 @@ include('./header.php');
 </div>
 <div class="container text-center mt-50 mb-100">
     <iframe
-        src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1546600.1390182662!2d87.97493438589994!3d23.28202071776169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s%20Adarsha%20Chanmari%2C%20Fatullah%2C%20Narayanganj!5e1!3m2!1sbn!2sbd!4v1739249207545!5m2!1sbn!2sbd"
-        width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.7087728938495!2d90.4967815!3d23.631947099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b1cbbdfe4561%3A0xed9335931fb1b20d!2z4KaF4KeN4Kav4Ka-4Kah4Kat4KeL4KaV4KeH4KafIOCmqOCmvuCmnOCmruCngeCmsiAmIOCmheCnjeCmr-CmvuCmuOCni-CmuOCmv-Cmr-CmvOCnh-Cmn-CmuA!5e1!3m2!1sbn!2sbd!4v1740155295654!5m2!1sbn!2sbd"
+        width="1320" height="600" style="border:0;" allowfullscreen="" loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </div>

@@ -27,6 +27,19 @@
             <div class="col-xl-4 col-lg-4 col-md-4">
                 <div class="single-teams text-center">
                     <div class="team-img">
+                        <img src="assets/img/team/team4.jpg" alt>
+                    </div>
+                    <div class="team-caption">
+                        <h4><a href="#">SHAHEDA KAMAL</a></h4>
+                        <p>LL.B., LL.M.</p>
+                        <p>ASSOCIATE & ADVOCATE</p>
+                        <span>JUDGE COURT, DHAKA</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-4">
+                <div class="single-teams text-center">
+                    <div class="team-img">
                         <img src="assets/img/team/team1.jpg" alt>
                     </div>
                     <div class="team-caption">
@@ -62,19 +75,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-4">
-                <div class="single-teams text-center">
-                    <div class="team-img">
-                        <img src="assets/img/team/team4.jpg" alt>
-                    </div>
-                    <div class="team-caption">
-                        <h4><a href="#">SHAHEDA KAMAL</a></h4>
-                        <p>LL.B., LL.M.</p>
-                        <p>ASSOCIATE & ADVOCATE</p>
-                        <span>JUDGE COURT, DHAKA</span>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
 </div>
